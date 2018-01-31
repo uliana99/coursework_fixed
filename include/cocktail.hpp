@@ -22,8 +22,9 @@ void cocktail_sort(RandomAccessIterator begin, RandomAccessIterator end) {
         // Если ничего не переставили
         // -> массив отсортирован.
         // -> завепщаем цикл.
-        if (!flag)
+        if (!flag) {
             break;
+        }
  
         // Если переставили
         // продолжаем сортировку
