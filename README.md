@@ -1,6 +1,6 @@
 <img src="https://molpredstvo.ru/wp-content/uploads/2017/01/Gerb_MGTU_imeni_Baumana.png" width="160" height="whatever" align="right">
 
-![ID](https://img.shields.io/badge/Кошкина-Ульяна-C71585.svg) [![Build Status](https://travis-ci.org/uliana99/coursework_fixed.svg?branch=master)](https://travis-ci.org/uliana99/coursework_fixed) [![codecov](https://codecov.io/gh/uliana99/coursework_fixed/branch/master/graph/badge.svg)](https://codecov.io/gh/uliana99/coursework_fixed) [![License: MIT](https://img.shields.io/badge/License-MIT-EE82EE.svg)](/LICENSE) [![docs: doxygen](https://img.shields.io/badge/doxygen-github.io-00BFFF.svg)](https://uliana99.github.io/coursework/files.html)
+![ID](https://img.shields.io/badge/Кошкина-Ульяна-C71585.svg) [![Build Status](https://travis-ci.org/uliana99/coursework_fixed.svg?branch=master)](https://travis-ci.org/uliana99/coursework_fixed) [![codecov](https://codecov.io/gh/uliana99/coursework_fixed/branch/master/graph/badge.svg)](https://codecov.io/gh/uliana99/coursework_fixed) [![License: MIT](https://img.shields.io/badge/License-MIT-EE82EE.svg)](/LICENSE)
 
 ## Курсовой проект 🚀: **bubble | cocktail | counting | heap**
 Тема: ***Реализация основных алгоритмов сортировок***
@@ -11,7 +11,7 @@
 - форматирование 
 - удаление устаревшей семантики
 - [X] Реализация **cocktail sort** согласно алгоритму 
-- выплнение тестов
+- выполнение тестов
 - анализ кода
 - [X] Изменения в  **CMakeLists.txt**
 - [X] Оценка алгоритма сортировок по времени
